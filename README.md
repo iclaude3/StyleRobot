@@ -11,7 +11,7 @@ Time spent: **2** hours spent in total
 The following functionality is completed:
 
 * [x] Cool Hat
-* [x] Matching colord
+* [x] Matching colors
 * [x] proper alignment of body parts
 * [x] dancing functionality
 
